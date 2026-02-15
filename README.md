@@ -15,5 +15,4 @@ Project Manager с опытом управления IT-проектами по 
 ## Портфолио
 - Кейсы PM (RPA, веб-продукт, AI-чат-бот): https://github.com/SeragornIM/pm-cases
 - Дипломы и сертификаты: https://github.com/SeragornIM/credentials
-- PM Manifesto (принципы и стиль управления): https://github.com/SeragornIM/pm-manifesto
 - Учебные проекты: https://disk.yandex.ru/d/RdbYLShAQ468Ew
